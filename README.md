@@ -11,7 +11,7 @@
 Требования к результату
  Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
-![1](https://github.com/Avdey87/zabbix-8-03-hw/blob/main/img/1.png.jpg)
+![1](https://github.com/Avdey87/zabbix-8-03-hw/blob/main/img/1.jpg)
 
 ---
 
