@@ -54,4 +54,4 @@
 Требования к результату
 Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
-![3](https://github.com/Avdey87/zabbix-8-03-hw/blob/main/img/3.png.jpg)
+![3](https://github.com/Avdey87/zabbix-8-03-hw/blob/main/img/5.jpg)
